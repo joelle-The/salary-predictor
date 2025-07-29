@@ -1,7 +1,7 @@
-panda
+pandas
 streamlit
 numpy
 joblib
 plotly
-matplotlib.pyplot
-seaborn
+matplotlib
+
