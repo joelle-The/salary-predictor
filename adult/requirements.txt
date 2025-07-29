@@ -2,7 +2,6 @@ panda
 streamlit
 numpy
 joblib
-plotly.express
-plotly.graph_objects
+plotly
 matplotlib.pyplot
 seaborn
