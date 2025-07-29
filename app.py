@@ -279,8 +279,8 @@ y = y_raw.apply(target_encode)
 #     st.markdown("### Encoded Feature Vector")
 #     st.dataframe(input_row, use_container_width=True)
 
-clf = model
-clf.fit(X, y)
+# clf = model
+# clf.fit(X, y)
 
 prediction = model.predict(input_row)
 prediction_proba = model.predict_proba(input_row)
